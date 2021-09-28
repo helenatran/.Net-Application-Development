@@ -1,3 +1,5 @@
+# Assignment 1: Simple Banking System
+
 The assignment consists of a console application of a banking system. User can perform actions such as:
 - Creating a bank account
 - Searching an account
